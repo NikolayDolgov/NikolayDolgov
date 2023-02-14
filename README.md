@@ -92,4 +92,4 @@ ___
 
 Статистика по моим публичным проектам на GitHab 👇
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayDolgov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayDF)](https://github.com/anuraghazra/github-readme-stats)
